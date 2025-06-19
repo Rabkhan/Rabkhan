@@ -44,4 +44,4 @@ I'm a former Senior Customer Success Manager making a bold transition into the w
 - 📬 Reach me: `rabdata1031@gmail.com`
 - 🌐 Portfolio (Coming Soon)
 
-Thanks for visiting — feel free to explore my repos or reach out if you want to collaborate or chat!
+Thanks for visiting. Feel free to explore my repos or reach out if you want to collaborate or chat!
