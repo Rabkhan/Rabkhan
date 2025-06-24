@@ -17,16 +17,16 @@ I'm a former Senior Customer Success Manager making a bold transition into the w
 ## 🧰 Tools & Technologies
 
 **Languages & Frameworks:**  
-`Python` | `SQL` | `Pandas` | `PySpark` | `JavaScript` | `HTML/CSS`
+`Python` | `SQL` | `Pandas` | `PySpark` | `HTML/CSS`
 
 **Data Tools:**  
-`Power BI` | `Airflow` | `Jupyter` | `VS Code` | `Excel`
+`Spark` | `Power BI` | `Jupyter` | `Excel Basics`
 
 **Databases & Storage:**  
-`MySQL` | `PostgreSQL` | `BigQuery` | `AWS S3` | `SQLite`
+`PostgreSQL` | `MySQL` | `AWS S3` 
 
 **Other Skills:**  
-`ETL Pipelines` | `Data Cleaning` | `Exploratory Data Analysis` | `Git & GitHub` | `APIs` | `CI/CD Basics`
+`ETL Pipelines` | `Data Cleaning` | `Data Warehousing Basics` | `Exploratory Data Analysis` | `Git & GitHub` | `APIs` | `CI/CD Basics`
 
 ---
 
