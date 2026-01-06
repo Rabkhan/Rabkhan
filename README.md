@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!
 
-I'm a former Senior Customer Success Manager making a bold transition into the world of **Data Engineering & Analytics**. With over a decade of experience solving real business problems, I now channel that drive into building **scalable data pipelines**, crafting insightful dashboards, and engineering solutions that deliver **real-time value**.
+I'm a Data Specialist who builds the systems that move data and the analysis that makes sense of it. I focus on engineering clean, scalable pipelines while keeping a sharp eye on the actual insights that drive a product forward. With a solid background in stakeholder strategy, I’m just as comfortable diving into complex code as I am translating technical data into clear wins for the business.
 
 ---
 
